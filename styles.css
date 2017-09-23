@@ -78,6 +78,10 @@ a:hover {
   height: 200px;
   border-radius: 50%;
 }
+.post-content img {
+  width: 300px;
+  height: 200px;
+}
 .post-author span {
   margin-left: 16px;
 }
