@@ -62,7 +62,7 @@ a {
 a:hover {
   color: #CA6C18;
 }
-.post, .about, .safety-intro  {
+.post, .about, .safety-intro, .glossary  {
   max-width: 800px;
   margin: 0 auto;
   padding: 60px 0;
@@ -98,7 +98,7 @@ a:hover {
   letter-spacing: 0.1em;
 }
 #post-list li {
-
+  line-height: 25px;
 }
 #post-numlist img {
   width: 50px;
@@ -110,9 +110,24 @@ h1, h2, h3, h4 {
 p {
   line-height: 1.5;
 }
-.about {
+.about, .glossary {
   text-align: center;
 }
 .post-container:nth-child(even) {
-  background-color: #f2f2f2;
+  background-color: #E3E3E3;
+}
+table, th, td {
+  border: 1px solid black;
+}
+th, td {
+  padding: 15px;
+}
+td {
+  text-align: left;
+}
+table {
+  border-spacing: 2px;
+}
+table tr:nth-child(even) {
+  background-color: #D2D2D2
 }
