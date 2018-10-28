@@ -1,1 +1,3 @@
 # DavidAFoley.github.io
+
+My space for learning to code in my spare time. Am loving doing this even if I am making very slow progress. But progress it is! So I carry on. Am using the form of a blog about drone flying as my end use to practice on. Have managed some basic formatting, am a bit stuck on adding in a widget....
